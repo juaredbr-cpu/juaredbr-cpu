@@ -28,10 +28,10 @@ Graduando em Medicina Veterinária pela **UFRRJ**, desenvolvendo software aplica
 ---
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=juaredbr-cpu&show_icons=true&theme=default&hide_title=true&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juaredbr-cpu&layout=compact&theme=default&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=juaredbr-cpu&show_icons=true&theme=dark&hide_title=true&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juaredbr-cpu&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=juaredbr-cpu&theme=default&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=juaredbr-cpu&theme=dark&hide_border=true" alt="GitHub streak" />
 </div>
