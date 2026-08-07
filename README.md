@@ -6,6 +6,7 @@ Graduando em Medicina Veterinária pela **UFRRJ**, desenvolvendo software aplica
 - 🧬 Também construindo ferramentas de bioinformática para análise de sequenciamento Sanger (montagem de contigs, chamada de variantes)
 - 🌱 Aplicando Python a fluxos de trabalho de laboratório de pesquisa e ensino
 - 💬 Pergunte-me sobre parasitologia veterinária, visão computacional aplicada a diagnóstico ou bioinformática de sequenciamento Sanger
+- 🇧🇷 Idealizador do EasyContig BR — montagem Sanger pela web: easycontigbr.com.br
 
 ### Stack
 
@@ -19,7 +20,7 @@ Graduando em Medicina Veterinária pela **UFRRJ**, desenvolvendo software aplica
 ### Projetos
 
 - **Classificação de hemoparasitos por deep learning** — pipeline de triagem de esfregaços de sangue para apoio diagnóstico (projeto vinculado a patente em desenvolvimento; código fechado).
-- **Ferramenta de montagem de sequenciamento Sanger** — aplicativo desktop para importar cromatogramas, parear reads, montar contigs e chamar variantes, voltado a laboratórios de pesquisa e ensino.
+- **Ferramenta de montagem de sequenciamento Sanger** — aplicativo desktop e web para importar cromatogramas, parear reads, montar contigs e chamar variantes, voltado a laboratórios de pesquisa e ensino.
 
 ### Contato
 
